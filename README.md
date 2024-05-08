@@ -1,2 +1,2 @@
-# Mohenjo
-This is a market place for ecommerce to buy, sell, rent and broad cast based on blockchain technology.
+# UrbanDrive
+The purpose of this project to make the rental automobile industry easier. It is a decentralised application (Dapp) that integrates with your cryptocurrency wallet to enable hassle-free cryptocurrency and fiat money transactionsf. Customers may rent and pay for services with ease thanks to the Metamask wallet. The Binance Smart Chain is used in the development and deployment of this project.
