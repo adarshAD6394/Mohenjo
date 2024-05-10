@@ -22,7 +22,7 @@ UrbanDrive is a decentralized car rental platform built on blockchain technology
 - **Google Maps API**: Location-based services
 - **IPFS**: InterPlanetary File System for decentralized storage
 
- ## [Installation](https://github.com/adarshAD6394/UrbanDrive/blob/main/README.md)
+ ## [Installation](https://github.com/adarshAD6394/UrbanDrive/blob/main/command.md#installation)
 1. Clone the repository:
    ```
    git clone https://github.com/adarshAD6394/UrbanDrive.git
@@ -49,7 +49,7 @@ UrbanDrive is a decentralized car rental platform built on blockchain technology
 
 ## Testing
 - Run tests using Mocha and Chai:
-- Commands mentioned in [Readme](https://github.com/adarshAD6394/UrbanDrive/blob/main/README.md) can be followed 
+- Commands mentioned in [Readme](https://github.com/adarshAD6394/UrbanDrive/blob/main/command.md#basic-commands) can be followed 
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the project, please fork the repository, make your changes, and submit a pull request.
