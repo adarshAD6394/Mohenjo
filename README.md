@@ -12,8 +12,9 @@ UrbanDrive is a decentralized car rental platform built on blockchain technology
 - **IPFS Integration**: Utilized IPFS for decentralized storage, ensuring data integrity and resilience. IPFS serves as a peer-to-peer network for storing and sharing data, enhancing the scalability and reliability of the application.
 
 ## Technologies Used
-- **Solidity** [Solidity Documentation](https://docs.soliditylang.org/en/v0.8.25/) : Smart contract development
-- **Truffle**: Ethereum development framework
+- [**Solidity**](https://docs.soliditylang.org/en/v0.8.25/) : Smart contract development
+- [**Truffle**](https://archive.trufflesuite.com/docs/truffle/): Ethereum development framework
+- [**Ganache**](https://archive.trufflesuite.com/docs/ganache/): Ethereum development framework
 - **React**: Frontend user interface
 - **Node.js**: Backend server
 - **Binance Smart Chain**: Blockchain platform
@@ -21,7 +22,7 @@ UrbanDrive is a decentralized car rental platform built on blockchain technology
 - **Google Maps API**: Location-based services
 - **IPFS**: InterPlanetary File System for decentralized storage
 
-## Installation
+ ## [Installation](https://github.com/adarshAD6394/UrbanDrive/blob/main/README.md)
 1. Clone the repository:
    ```
    git clone https://github.com/adarshAD6394/UrbanDrive.git
@@ -48,19 +49,10 @@ UrbanDrive is a decentralized car rental platform built on blockchain technology
 
 ## Testing
 - Run tests using Mocha and Chai:
-  ```
-  npm test
-  ```
+- Commands mentioned in [Readme](https://github.com/adarshAD6394/UrbanDrive/blob/main/README.md) can be followed 
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the project, please fork the repository, make your changes, and submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
-For any inquiries or feedback, feel free to reach out to us at [email@example.com](mailto:email@example.com).
-
----
-
-Feel free to modify the content to better suit your project's specific details and requirements!
+For any inquiries or feedback, feel free to reach out to us at [guptaadarsh372001@gmail.com](mailto:guptaadarsh372001@gmail.com).
